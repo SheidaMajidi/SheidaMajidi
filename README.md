@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi 👋🏻 My name is Sheida!
 
-<!--
-**SheidaMajidi/SheidaMajidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍🎓 Educational Journey
+- **Master of Management in Analytics**: McGill University's Desautels Faculty of Management
+- **Master of Science in Civil Engineering (Geotechnical Engineering)**: Iran University of Science and Technology 
+- **Bachelor of Engineering in Civil Engineering**: Sharif University of Technology
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Professional Experience
+- **Research Assistant & Teaching Assistant**: Carleton University
+- **Data Analyst - Geotechnical Engineer**: Ijad Sakhteman Abyaneh Co.
+- **Civil Engineer**: Omran Sazeh Shahr Koosha
+
+
+## 💡 Skills
+- [![My Skills](https://skillicons.dev/icons?i=py,mysql,r,matlab,latex,cpp,html&theme=light)](https://skillicons.dev)
+
+## 🛼 Interests
+- Remotely Piloted Aircraft Systems, Geospatial Analysis, Skating
+
+
+## 🌟 Ready to Collaborate?
+- I'm always open to discussing new ideas and projects, especially if they're related to civil engineering, data analytics, or any of my diverse interests. Don't hesitate to connect with me on LinkedIn or drop me an email for any inquiries or conversations you'd like to have!
+
+  
+- 🌍 I'm based in Montréal
+- ✉️ You can contact me at sheida.majidi@mail.mcgill.ca
+
