@@ -15,8 +15,11 @@
 ## 💡 Skills
 [![My Skills](https://skillicons.dev/icons?i=py,mysql,r,matlab,latex,cpp,html&theme=light)](https://skillicons.dev)
 
-## 🛼 Interests
-- Remotely Piloted Aircraft Systems, Geospatial Analysis, Skating
+## 🎡 Interests
+- Remotely Piloted Aircraft Systems ✈️
+- Geospatial Analysis 🗺️
+- Skating 🛼⛸️
+- Video Gaming 🎮
 
 
 ## 🌟 Ready to Collaborate?
