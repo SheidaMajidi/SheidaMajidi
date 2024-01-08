@@ -26,6 +26,6 @@
 I'm always open to discussing new ideas and projects, especially if they're related to data analytics, machine learning, engineering, or any of my diverse interests. Don't hesitate to connect with me on LinkedIn or drop me an email for any inquiries or conversations you'd like to have!
 
   
-- 🌍 I'm based in Montréal
+- 🌍 I'm based in Montreal, Canada
 - ✉️ You can contact me at sheida.majidi@mail.mcgill.ca
 
