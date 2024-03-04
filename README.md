@@ -15,7 +15,7 @@
 ![Skills](https://skillicons.dev/icons?i=py,mysql,r,matlab,latex,cpp,html&theme=light)
 
 ## 🎡 Interests
-- RPAS Piloting, Geospatial Analysis, Skating, Video Gaming
+- RPAS Piloting✈️, Geospatial Analysis🗺️, Skating🛼⛸️, Video Gaming🎮
 
 ## 🤝 Connect
 Open to collaborations in data engineering, machine learning, and data analytics. Reach out to connect or discuss ideas!
